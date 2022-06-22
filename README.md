@@ -5,6 +5,7 @@ Functions and code from the paper:
 Schudle of this repository:
 
 - **Functions_SpatialNetworks.R** file where is the information of functions created and used in this research.
-- **Spatial-Network.R** file where is described the workflow carried out
+- **Spatial-Network.R** file where is described the workflow to plot a spatial use network.
+- **Perturbation-Analysis.R** file where is described the workflow of random and targeted simulations of node removal.
 
 These functions were developed to calculate dynamic Brownian Bridge Models, graph spatial use networks and run perturbation analysis.
