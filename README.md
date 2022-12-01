@@ -1,6 +1,6 @@
 Functions and code from the paper:
 
-**Resource predictability modulates space use networks in an endangered scavenger species** Cerecedo-Iglesias et al. submitted to Ecological Applications in 2022.
+**Resource predictability modulates spatial-use networks in an endangered scavenger species** Cerecedo-Iglesias et al. submitted to Movement Ecology in 2022.
 
 Schudle of this repository:
 
